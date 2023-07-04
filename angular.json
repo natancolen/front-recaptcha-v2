@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-recaptcha-v2"
+    }
+  },
+  "defaultProject": "angular-recaptcha-v2",
+  "cli": {
+    "analytics": false
+  }
 }
